@@ -8,6 +8,14 @@ In this lab you will practice how to import a database into MySQL and obtain int
 
 You will create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
 
+## Instructions from Eldiias:
+
+1. Count the number of clients per gender
+2. Are there any accounts that have more than 2 linked clients?
+3. What is the average transaction amount for each region?
+4. Based on the entire transaction volume (total amount), what's the percentage that was sent to another bank?
+5. From which region do most of the clients that are account owners come from, that either have finished loan contracts that haven't been paid, or have running contracts but are in debt? Show the top 10 regions including the number of client that are owners.
+
 ## Challenge 1 - What is the most successful district?
 
 In this challenge you will write a query to calculate how many accounts were created in each district. Your output should have at least the following columns:
